@@ -2,9 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+Este ejercicio lo realizo utilizando redux toolkit  
+Pquetes instalados:  
+npm install @reduxjs/toolkit react-redux  
+route -> -npm install react-router-dom -> Para crear rutas (links)  
+navigate-> (redirect)  
+sweet alert -> npm install sweetalert  
 
 ### `npm start`
 
